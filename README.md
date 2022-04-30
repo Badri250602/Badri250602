@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Django in Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...rrbadri25@gmail.com
 
 <!---
 Badri250602/Badri250602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
